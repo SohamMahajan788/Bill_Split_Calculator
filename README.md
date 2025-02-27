@@ -12,7 +12,7 @@ Description - Welcome to the Bill Split Calculator! This Python script helps you
 🛠️ Installation Procedure:-
 
 1. Ensure you have Python installed.
-2. Install the required Colorama library
+2. Install the required Colorama library:
 - Open Terminal of your code editor and type - ***pip install colorama***
 
 📄 Example Output:-
