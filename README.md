@@ -2,14 +2,14 @@ Project Name - 💰Bill Split Calculator💰
 
 Description - Welcome to the Bill Split Calculator! This Python script helps you easily split a bill among friends, including a tip percentage of your choice, and displays the amount each person should pay. It also includes color-coded prompts for better readability.
 
-✨ Features and Working:-
+✨ Features and Working: -
 
 💰 Takes user input for bill amount, tip percentage, and number of people.
 🧮 Calculates the total bill including tip and evenly splits it.
 🎨 Uses the Colorama library to enhance terminal output with colors.
 💲 Provides a clear breakdown of the cost per person.
 
-🛠️ Installation Procedure:-
+🛠️ Installation Procedure: -
 
 1. Ensure you have Python installed.
 2. Install the required Colorama library: -
