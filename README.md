@@ -20,7 +20,7 @@ Description - Welcome to the Bill Split Calculator! This Python script helps you
 
 What was the total bill? 💲145
 
-What percentage tip would you like to give? (e.g., 0, 10, 12, or 15? 12
+What percentage tip would you like to give? e.g., 0, 10, 12, or 15? 12
 
 How many people going to split the bill? 4
 
