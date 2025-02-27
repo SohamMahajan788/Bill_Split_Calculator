@@ -4,10 +4,10 @@ Description - Welcome to the Bill Split Calculator! This Python script helps you
 
 ✨ Features and Working: -
 
-💰 Takes user input for bill amount, tip percentage, and number of people.
-🧮 Calculates the total bill including tip and evenly splits it.
-🎨 Uses the Colorama library to enhance terminal output with colors.
-💲 Provides a clear breakdown of the cost per person.
+1. 💰 Takes user input for bill amount, tip percentage, and number of people.
+2. 🧮 Calculates the total bill including tip and evenly splits it.
+3. 🎨 Uses the Colorama library to enhance terminal output with colors.
+4. 💲 Provides a clear breakdown of the cost per person.
 
 🛠️ Installation Procedure: -
 
