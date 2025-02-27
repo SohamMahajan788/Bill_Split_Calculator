@@ -1,4 +1,5 @@
 Project Name - 💰Bill Split Calculator💰
+
 Description - Welcome to the Bill Split Calculator! This Python script helps you easily split a bill among friends, including a tip percentage of your choice, and displays the amount each person should pay. It also includes color-coded prompts for better readability.
 
 ✨ Features and Working:-
