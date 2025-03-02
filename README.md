@@ -17,15 +17,8 @@ Description - Welcome to the Bill Split Calculator! This Python script helps you
 
 📄 Example Output:-
 ****************************************
-💰Welcome to the Bill Split Calculator!💰
+![Screenshot 2025-03-02 234453](https://github.com/user-attachments/assets/63de6056-4aad-46bb-8a61-21896c0aa9d3)
 
-What was the total bill? 💲145
-
-What percentage tip would you like to give? e.g., 0, 10, 12, or 15? 12
-
-How many people going to split the bill? 4
-
-Each person should pay: 💲40.6
 ****************************************
 
 🔗 Follow My Coding Journey:
