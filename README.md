@@ -26,6 +26,15 @@ What percentage tip would you like to give? e.g., 0, 10, 12, or 15? 12
 How many people going to split the bill? 4
 
 Each person should pay: 💲40.6
+****************************************
+
+🔗 Follow My Coding Journey:
+
+LinkedIn: https://www.linkedin.com/in/sohammahajan788
+
+Twitter (X): https://x.com/SohamMahajan788
+
+GitHub: https://github.com/SohamMahajan788
 
 ****************************************
 🔗 Contributing
